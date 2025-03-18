@@ -9,16 +9,16 @@ _This is a professional development project I made up for myself to practice tec
 This guide teaches you how to play [Azul](https://boardgamegeek.com/boardgame/230802/azul), a strategy board game where players compete to create beautiful tile patterns that are scored on a grid. 
 
 You’ll learn:
-- The basic rules.
+- The basic rules
 - How to take a turn (with examples).
 - Strategies to improve your play.
 
 ## How to Play
 
-> [!TIP]
-> #### Gamepieces and Board
+### Gamepieces and Board
 > ![image](https://github.com/user-attachments/assets/ad1d8e3f-30ca-4175-9242-61de5ca1bf16)
-> The standard Azul Board Game comes with:
+
+The standard Azul Board Game comes with:
 > * 100 Resin Tiles
 > * 1 Starting player marker
 > * 4 Player boards
@@ -53,6 +53,11 @@ You’ll learn:
    - 10 points for completing all 5 tiles of one color.
 - **Penalties:** Lose points for tiles in the floor line.
 
+> [!IMPORTANT]
+> Scoring individual tiles step wise happens at the end of each turn, then bonuses are accounted for at the end of the game.
+> Example
+> Non-Example
+
 ### Example Turn
 1. You pick 2 blue tiles from a factory display.
 2. You place them in the third pattern line.
@@ -67,6 +72,7 @@ You’ll learn:
 - **Avoid penalties:** Minimize tiles in the floor line.
 
 The game ends when a player completes a horizontal row of 5 tiles. The player with the most points wins.
+
 
 Now you’re ready to play Azul! Have fun creating stunning tile patterns and outscoring your opponents.
 
