@@ -21,35 +21,40 @@ You’ll learn: <br/>
 The standard Azul Board Game comes with:
 
 [comment]:# (MAKE THIS A TABLE WITH ILLUSTRATION OF THE PIECES)
-* 100 Resin Tiles
-* 1 Starting player marker
-* 4 Player boards
-* 9 Factory displays
-* 4 Scoring markers
-* 1 Linen bag
+* 100 colored tiles (20 of each color)
+* 1 starting player tile
+* 4 player boards
+* 9 factory displays
+* 4 scoring markers
+* 1 tile bag
 
 ### Setup
-1. Give each player a board and start on the side with the colored grid
-   ![image](https://github.com/user-attachments/assets/8c989571-fa92-438d-ba8f-ad55f6f79c7c)
-2. Place the factory displays in a circle at the center of the table:
- * 2 players: 5 factory displays
- * 5 players: 7 factory displays
- * 4 players: 9 factory displays
-   
+[comment]:# (annotate this picture and also add captions to all images)
 [comment]:# (add visuals of how the board can be set up, with rings increasing in size and player number in the middle; maybe animated? either way, you need a caption)
 
-3. Fill the bag with 100 tiles (20 of each color)
-4. Draw 4 tiles for each factory display.
+1. Give each player a board, starting on the side with the colored grid
+   ![image](https://github.com/user-attachments/assets/8c989571-fa92-438d-ba8f-ad55f6f79c7c)
+2. Place the factory displays in a circle at the center of the table, based on the number of players:
+    * For 2 players, set up 5 factory displays.
+    * For 5 players, set up 7 factory displays.
+    * For 4 players, set up 9 factory displays.
+4. Set aside the **starting player** tile.
+5. Fill the tile bag with 100 colored tiles.
+6. Determine the starting player, who will complete the last setup step. The starting player is person who visited Portugal most recently. 
+
+>[!NOTE]
+>If none of the players have visited Portugal, defer to house rules to choose the starting player.
+
+5. The starting player takes the Place exactly 4 tiles on each factory display randomly drawn out of the bag.
    
 [comment]:# (these need a rework, they are not specific enough)
 
 ### Taking a Turn
-1. **Starting Player**: The last player to visit Portugal takes the starting player marker.
-2. **Pick tiles:** Choose all tiles of one color from a factory display or the center. Move any remaining tiles from that factory to the center.
-3. **Place tiles:** Add the tiles to a pattern line on your board.
+1. **Pick tiles:** Choose all tiles of one color from a factory display or the center. Move any remaining tiles from that factory to the center.
+2.  **Place tiles:** Add the tiles to a pattern line on your board. A pattern line
    - Each row holds only one color.
    - Extra tiles that don’t fit go to the floor line and cost points.
-4. **End round:** When all tiles are taken, move completed pattern lines to the wall and score points.
+3. **End round:** When all tiles are taken, move completed pattern lines to the wall and score points.
 
 [comment]:# (these need a rework, they are not specific enough)
 
