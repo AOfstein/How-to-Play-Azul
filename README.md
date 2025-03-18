@@ -16,6 +16,8 @@ You’ll learn: <br/>
 ### Gamepieces and Board
 ![image](https://github.com/user-attachments/assets/ad1d8e3f-30ca-4175-9242-61de5ca1bf16)
 
+[comment]:# (annotate this picture and also add captions to all images)
+
 The standard Azul Board Game comes with:
 
 [comment]:# (MAKE THIS A TABLE WITH ILLUSTRATION OF THE PIECES)
@@ -33,6 +35,9 @@ The standard Azul Board Game comes with:
  * 2 players: 5 factory displays
  * 5 players: 7 factory displays
  * 4 players: 9 factory displays
+   
+[comment]:# (add visuals of how the board can be set up, with rings increasing in size and player number in the middle; maybe animated? either way, you need a caption)
+
 3. Fill the bag with 100 tiles (20 of each color)
 4. Draw 4 tiles for each factory display.
    
@@ -47,6 +52,8 @@ The standard Azul Board Game comes with:
 4. **End round:** When all tiles are taken, move completed pattern lines to the wall and score points.
 
 [comment]:# (these need a rework, they are not specific enough)
+
+> WIP: Example Play - show three turns
 
 ### Scoring
 - **Single tile:** 1 point.
@@ -64,12 +71,6 @@ The standard Azul Board Game comes with:
 > Example
 > Non-Example
 
-### Example Turn
-1. You pick 2 blue tiles from a factory display.
-2. You place them in the third pattern line.
-3. The next player picks tiles.
-4. At the end of the round, you move the completed row’s rightmost tile to the wall and score points.
-
 ## Strategies for Winning
 - **Plan ahead:** Choose tiles that help you in future rounds.
 - **Control the center:** Force opponents to take penalties.
@@ -77,8 +78,9 @@ The standard Azul Board Game comes with:
 - **Maximize bonuses:** Focus on rows, columns, and color completion.
 - **Avoid penalties:** Minimize tiles in the floor line.
 
+[comment]:# (explain why these are good strategies, and also add a strategy or show an example of different approaches to filling the grid ex - corner out)
+
 The game ends when a player completes a horizontal row of 5 tiles. The player with the most points wins.
 
 
-Now you’re ready to play Azul! Have fun creating stunning tile patterns and outscoring your opponents.
-
+**Now you’re ready to play Azul! Have fun creating stunning tile patterns and outscoring your opponents.**
